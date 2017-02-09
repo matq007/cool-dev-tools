@@ -1,0 +1,7 @@
+.idea/
+.cache/
+.eggs/
+cool_dev_tools.egg-info/
+old/
+cool-dev-tools.log
+notes
